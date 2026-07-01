@@ -1,0 +1,85 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 37129,
+      "minecraft:leave_game": 3,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 145,
+      "minecraft:time_since_death": 37129,
+      "minecraft:aviate_one_cm": 410909,
+      "minecraft:open_enderchest": 4,
+      "minecraft:interact_with_smithing_table": 3,
+      "minecraft:total_world_time": 37129,
+      "minecraft:swim_one_cm": 7177,
+      "minecraft:crouch_one_cm": 5,
+      "minecraft:climb_one_cm": 1952,
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:walk_one_cm": 51572,
+      "minecraft:horse_one_cm": 241505,
+      "minecraft:walk_under_water_one_cm": 686,
+      "minecraft:play_time": 37129,
+      "minecraft:damage_dealt": 359,
+      "minecraft:jump": 775,
+      "minecraft:drop": 9,
+      "minecraft:open_barrel": 17,
+      "minecraft:sprint_one_cm": 114017,
+      "minecraft:open_chest": 108,
+      "minecraft:fall_one_cm": 17951,
+      "minecraft:fly_one_cm": 197226,
+      "minecraft:walk_on_water_one_cm": 7177,
+      "minecraft:sneak_time": 62
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 2
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 14,
+      "minecraft:firefly_bush": 1,
+      "minecraft:tuff": 2,
+      "minecraft:dandelion": 1,
+      "minecraft:redstone_wire": 1,
+      "minecraft:cobblestone": 1,
+      "minecraft:stone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:tuff": 2,
+      "minecraft:firefly_bush": 1,
+      "minecraft:cobblestone": 2,
+      "minecraft:dandelion": 1,
+      "minecraft:redstone": 1,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:diamond_leggings": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:iron_helmet": 1,
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:diamond_leggings": 4,
+      "minecraft:iron_chestplate": 1,
+      "minecraft:iron_boots": 1,
+      "minecraft:iron_leggings": 1
+    },
+    "minecraft:used": {
+      "minecraft:firefly_bush": 1,
+      "minecraft:redstone": 1,
+      "minecraft:iron_pickaxe": 7,
+      "minecraft:iron_sword": 6,
+      "minecraft:firework_rocket": 16,
+      "minecraft:golden_carrot": 1,
+      "minecraft:cobblestone": 27,
+      "minecraft:cooked_beef": 4,
+      "minecraft:elytra": 1,
+      "minecraft:water_bucket": 2,
+      "minecraft:bucket": 2,
+      "minecraft:golden_sword": 11,
+      "minecraft:egg": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:diamond": 36,
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:air": 0,
+      "minecraft:diamond_leggings": 4
+    }
+  },
+  "DataVersion": 4671
+}

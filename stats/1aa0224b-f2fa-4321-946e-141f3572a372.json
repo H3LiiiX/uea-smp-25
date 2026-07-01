@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:blue_wool": 1,
+      "minecraft:paper": 1
+    },
+    "minecraft:used": {
+      "minecraft:rotten_flesh": 1,
+      "minecraft:splash_potion": 1,
+      "minecraft:smooth_basalt": 2,
+      "minecraft:oak_log": 1,
+      "minecraft:iron_boots": 1,
+      "minecraft:blue_wool": 1
+    },
+    "minecraft:mined": {
+      "minecraft:blue_wool": 1,
+      "minecraft:short_grass": 1,
+      "minecraft:torch": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3226,
+      "minecraft:walk_one_cm": 5789,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 55,
+      "minecraft:damage_taken": 60,
+      "minecraft:play_time": 5753,
+      "minecraft:jump": 215,
+      "minecraft:time_since_death": 5753,
+      "minecraft:drop": 1,
+      "minecraft:open_barrel": 2,
+      "minecraft:sprint_one_cm": 28756,
+      "minecraft:open_chest": 13,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 7067,
+      "minecraft:swim_one_cm": 2188,
+      "minecraft:total_world_time": 5753,
+      "minecraft:fly_one_cm": 66884,
+      "minecraft:walk_on_water_one_cm": 539,
+      "minecraft:crouch_one_cm": 8,
+      "minecraft:sneak_time": 14,
+      "minecraft:climb_one_cm": 229
+    },
+    "minecraft:dropped": {
+      "minecraft:paper": 1
+    }
+  },
+  "DataVersion": 4671
+}

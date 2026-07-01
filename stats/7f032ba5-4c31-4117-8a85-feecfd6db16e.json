@@ -1,0 +1,49 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:diamond_helmet": 1,
+      "minecraft:diamond_leggings": 1,
+      "minecraft:golden_carrot": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:dark_oak_planks": 8,
+      "minecraft:diamond_boots": 1,
+      "minecraft:diamond_axe": 1,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:diamond_chestplate": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 17841,
+      "minecraft:walk_one_cm": 36982,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 154,
+      "minecraft:damage_taken": 8,
+      "minecraft:play_time": 17841,
+      "minecraft:open_shulker_box": 2,
+      "minecraft:jump": 211,
+      "minecraft:time_since_death": 17841,
+      "minecraft:open_barrel": 1,
+      "minecraft:sprint_one_cm": 38432,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 2431,
+      "minecraft:swim_one_cm": 7296,
+      "minecraft:total_world_time": 17841,
+      "minecraft:fly_one_cm": 42940,
+      "minecraft:walk_on_water_one_cm": 74,
+      "minecraft:crouch_one_cm": 141,
+      "minecraft:sneak_time": 161,
+      "minecraft:climb_one_cm": 1194
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_sword": 1,
+      "minecraft:ender_pearl": 64,
+      "minecraft:diamond_helmet": 1,
+      "minecraft:diamond": 40,
+      "minecraft:golden_carrot": 32,
+      "minecraft:diamond_leggings": 1
+    }
+  },
+  "DataVersion": 4671
+}

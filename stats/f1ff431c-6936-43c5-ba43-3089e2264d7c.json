@@ -1,0 +1,79 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 36432,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 385,
+      "minecraft:open_shulker_box": 4,
+      "minecraft:time_since_death": 36432,
+      "minecraft:open_enderchest": 3,
+      "minecraft:interact_with_furnace": 7,
+      "minecraft:total_world_time": 36432,
+      "minecraft:swim_one_cm": 6104,
+      "minecraft:crouch_one_cm": 2059,
+      "minecraft:climb_one_cm": 14155,
+      "minecraft:interact_with_loom": 1,
+      "minecraft:walk_one_cm": 97459,
+      "minecraft:horse_one_cm": 14082,
+      "minecraft:walk_under_water_one_cm": 2461,
+      "minecraft:play_time": 36432,
+      "minecraft:damage_dealt": 667,
+      "minecraft:jump": 1038,
+      "minecraft:drop": 9,
+      "minecraft:open_barrel": 30,
+      "minecraft:sprint_one_cm": 86993,
+      "minecraft:open_chest": 123,
+      "minecraft:fall_one_cm": 29290,
+      "minecraft:fly_one_cm": 287123,
+      "minecraft:walk_on_water_one_cm": 15368,
+      "minecraft:sneak_time": 624,
+      "minecraft:interact_with_blast_furnace": 1
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1,
+      "minecraft:spider": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 2,
+      "minecraft:granite": 7,
+      "minecraft:cobblestone": 12,
+      "minecraft:stone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:iron_boots": 2,
+      "minecraft:iron_leggings": 1,
+      "minecraft:cobblestone": 11,
+      "minecraft:poppy": 61,
+      "minecraft:granite": 7,
+      "minecraft:gunpowder": 2,
+      "minecraft:iron_ingot": 85,
+      "minecraft:iron_helmet": 1,
+      "minecraft:spider_eye": 1,
+      "minecraft:diamond_leggings": 4,
+      "minecraft:iron_chestplate": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:iron_helmet": 1,
+      "minecraft:diamond_leggings": 1,
+      "minecraft:iron_chestplate": 2,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:iron_boots": 2,
+      "minecraft:iron_leggings": 2
+    },
+    "minecraft:used": {
+      "minecraft:cooked_beef": 3,
+      "minecraft:water_bucket": 5,
+      "minecraft:axolotl_bucket": 1,
+      "minecraft:diamond_axe": 11,
+      "minecraft:diamond_pickaxe": 20,
+      "minecraft:bucket": 6,
+      "minecraft:cooked_porkchop": 4,
+      "minecraft:diamond_leggings": 1,
+      "minecraft:cobblestone": 15
+    }
+  },
+  "DataVersion": 4671
+}
